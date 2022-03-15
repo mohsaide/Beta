@@ -1,0 +1,3 @@
+"#paleta"  
+"#paleta" 
+"#beta"  
